@@ -1,0 +1,27 @@
+﻿Backlog List;Story Points;Value Points;Bang;;Fib. Series
+Creating Mockup for web page;5;1;0,2;;1
+Drawing final wireframe for website;3;1;0,333333333;;2
+Information Design;3;2;0,666666667;;3
+Taxonomy Creation;2;5;2,5;;5
+Collecting Pictures;2;3;1,5;;8
+As a owner, I want a nice and eye catching website logo.;2;5;2,5;;13
+Checking that all appropriate  functionality are available, such as, title, text, pictures, video and  audio.;1;1;1;;21
+Adding  horizontal rules in html.;1;1;1;;34
+As a User, I want to sign up.;13;34;2,615384615;;55
+"As a user, I want to pay online.""";13;55;4,230769231;;
+Baner area.;3;8;2,666666667;;
+Website Layout design.;55;34;0,618181818;;
+As a customer, I want to know the Location of the Shop on a map.;5;55;11;;
+Using Database for website. Database design.;34;2;0,058823529;;
+As a user, I want to see the list of selected item, such as, shoping cart.;8;34;4,25;;
+Adding bootstrap to the page.;5;2;0,4;;
+As a user, I want search option on the website.;1;13;13;;
+As a customer, I want to give feedback on the website.;2;34;17;;
+Adding useful website link, such as, Facebook, YouTube.;1;13;13;;
+Creating API  and adding to the page so that people easily can sign up.;13;1;0,076923077;;
+As a user, I want to see the opening hour of the shop.;2;34;17;;
+As a customer, I want to see the customer benifit on the website.;2;34;17;;
+As a customer, I want to see the picture of the product.;3;55;18,33333333;;
+As a user, I want easy navigation to find easily the things.;13;21;1,615384615;;
+As a customer, I want discription of the product, such as, size, price and expire date.;8;55;6,875;;
+As a Administrator, I want to add the product.;13;3;0,230769231;;
